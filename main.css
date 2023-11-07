@@ -78,9 +78,13 @@ form p {
     margin-top: 20px;
 }
 
-footer p {
+footer {
     text-align: center;
     margin-top: 200px;
+}
+
+footer p {
+    padding: 10px;
 }
 
 footer a {
